@@ -1,5 +1,5 @@
 # Tala Diff Match
-a lightweight diff patch library for network transfer
+A lightweight diff patch library for network transfer and text file history.
 
 ## Usage
 ### Diff

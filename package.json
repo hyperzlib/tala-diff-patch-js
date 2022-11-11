@@ -1,8 +1,9 @@
 {
   "name": "tala-diff-patch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight diff patch library for network transfer.",
   "main": "dist/index.js",
+  "browser": "dist/index.js",
   "scripts": {
     "test": "node test/test",
     "build": "npx tsc"

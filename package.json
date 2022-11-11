@@ -1,7 +1,8 @@
 {
   "name": "tala-diff-patch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Lightweight diff patch library for network transfer.",
+  "keywords": ["diff", "patch", "diff-patch"],
   "main": "dist/index.js",
   "browser": "dist/index.js",
   "scripts": {
@@ -13,6 +14,14 @@
     "email": "hyperzlib@outlook.com"
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyperzlib/tala-diff-patch-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hyperzlib/tala-diff-patch-js/issues",
+    "email": "hyperzlib@outlook.com"
+  },
   "dependencies": {
     "diff-match-patch": "^1.0.5"
   },
